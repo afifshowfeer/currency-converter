@@ -38,26 +38,27 @@ A sleek currency converter web application that allows users to easily convert b
 └── README.md          # Project documentation
 ```
 
-##🌐 How to Use
+## 🌐 How to Use
 
-Enter the amount you want to convert in the input field.
-Select the currency you want to convert from and to using the dropdown menus. Flags will update dynamically based on your selection.
-Click the Get Exchange Rates button to see the conversion result below.
-
-
-##🌍 APIs Used
-Exchange Rate API: Provides real-time exchange rate data for accurate currency conversion.
-Flag API: Fetches country flags dynamically for the dropdown menu, enhancing the visual experience.
+- Enter the amount you want to convert in the input field.
+- Select the currency you want to convert from and to using the dropdown menus. Flags will update dynamically based on your selection.
+- Click the Get Exchange Rates button to see the conversion result below.
 
 
-##🎨 Customization
+## 🌍 APIs Used
+- Exchange Rate API: Provides real-time exchange rate data for accurate currency conversion.
+- Flag API: Fetches country flags dynamically for the dropdown menu, enhancing the visual experience.
+
+
+## 🎨 Customization
+
 Feel free to modify the project to match your preferences:
 
-Styling: Update the styles.css file to change colors, fonts, or layout.
-Additional Currencies: Add more options in the dropdown menu in the index.html file.
-APIs: Replace or enhance the currency conversion or flag APIs for better features or data.
+- Styling: Update the styles.css file to change colors, fonts, or layout.
+- Additional Currencies: Add more options in the dropdown menu in the index.html file.
+- APIs: Replace or enhance the currency conversion or flag APIs for better features or data.
 
-##🌟 Acknowledgments
-Exchange Rate API for providing real-time currency data.
-Flag API for the flag icons.
-Font Awesome for icons
+## 🌟 Acknowledgments
+- Exchange Rate API for providing real-time currency data.
+- Flag API for the flag icons.
+- Font Awesome for icons
