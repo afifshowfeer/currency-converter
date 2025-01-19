@@ -1,6 +1,6 @@
 # 🌐 Currency Converter
 
-A sleek currency converter web application that allows users to easily convert between various currencies using real-time exchange rates and country flags.
+A sleek and responsive currency converter web application that allows users to easily convert between various currencies using real-time exchange rates and country flags.
 
 ![image](https://github.com/user-attachments/assets/9ce26636-dc50-40f5-ac8e-2ab4d7361141)
 
